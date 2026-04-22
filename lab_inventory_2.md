@@ -117,7 +117,7 @@
 | laminated picture of wasp | 1 | Door/Sink Area | 1st shelf of silver shelving unit |
 | large size glove box | 1 | Bench B | left side of counter top |
 | little container "up h2o" | 1 | Bench A | right counter top |
-| little plastic containers | 3 | Silver Freezer | bottom shelf, right side |
+| little plastic containers | 3 | Silver fridge | bottom shelf, right side |
 | lotion bottle "lubriderm" | 1 | Door/Sink Area | sink counter |
 | medium size glove box | 1 | Bench B | first shelf on left |
 | medium size glove box | 1 | Bench B | left side of counter top |
@@ -254,7 +254,7 @@
 | eppendorf μfuge 5425 | 1 | Bench B | middle drawer on end cap |
 | keyboard | 1 | Bench D | couter top |
 | kinematic box | 1 | Bench D | top drawer on end |
-| legend micro 21 centrifuge | 1 | Silver Freezer | bottom shelf, left side |
+| legend micro 21 centrifuge | 1 | Silver fridge | bottom shelf, left side |
 | mac computer box | 1 | Bench C | shelf labelled 33 |
 | macbook air box | 1 | Bench C | shelf labelled 32 |
 | manostat box | 1 | Bench C | middle drawer on end |
@@ -262,7 +262,7 @@
 | microscope | 1 | Bench B | left side of counter top |
 | microwave | 1 | Bench B | end of counter |
 | monitor | 1 | Bench D | couter top |
-| nutating mixer | 1 | Silver Freezer | bottom shelf, left side |
+| nutating mixer | 1 | Silver Fridge | bottom shelf, left side |
 | pipettes | 4 | Bench C | bottom shelf on right |
 | pipettes | 3 | Bench A | right counter top |
 | pipettes | 6 | Bench B | first shelf on right |
@@ -279,8 +279,9 @@
 | vortex genie | 1 | Bench B | right counter top |
 | vortex genie | 1 | Bench F | counter top |
 | vortex genie | 2 | Bench C | counter top |
-| vwr fridge | 1 | Bench F | under counter |
+| vwr incubator | 1 | Bench F | under counter |
 | white tray/scale | 1 | Bench E | counter top |
+| biosafety cabinet | 1 | south wall | freestanding |
 
 ---
 
@@ -322,11 +323,11 @@
 | blue rack | 2 | Bench D | shelf on left side |
 | blue rack | 1 | Fume hood by Bench E | inside fume hood |
 | blue rack w/ one vial | 1 | Bench B | end of counter |
-| bottle "3M NaoAc" | 1 | Silver Freezer | bottom shelf, right side |
-| bottle of endotoxin binding reagent | 1 | Silver Freezer | bottom shelf, right side |
-| bottle of pure link RNase A | 1 | Silver Freezer | bottom shelf, right side |
-| bottle of resuspension solution | 1 | Silver Freezer | bottom shelf, right side |
-| bottle of strptomycin sulfate | 1 | Silver Freezer | bottom shelf, right side |
+| bottle "3M NaoAc" | 1 | Silver Fridge | bottom shelf, right side |
+| bottle of endotoxin binding reagent | 1 | Silver Fridge | bottom shelf, right side |
+| bottle of pure link RNase A | 1 | Silver Fridge | bottom shelf, right side |
+| bottle of resuspension solution | 1 | Silver Fridge | bottom shelf, right side |
+| bottle of strptomycin sulfate | 1 | Silver fridge | bottom shelf, right side |
 | box of petri dishes | 1 | Bench B | shelf labelled 13 |
 | brush | 1 | Door/Sink Area | right sink |
 | bunsen burner | 3 | Bench C | counter top |
@@ -426,8 +427,8 @@
 | plastic container | 2 | Bench A | floor under counter |
 | plastic container | 1 | Fume Hood by Bench A | inside fume hood |
 | plastic container w/ one bottle | 1 | White Freezer | 3rd shelf |
-| plastic container, 2 bottles "antibiotic powders" | 1 | Silver Freezer | bottom shelf, right side |
-| plastic containers | 4 | Silver Freezer | bottom shelf, left side |
+| plastic container, 2 bottles "antibiotic powders" | 1 | Silver Fridge | bottom shelf, right side |
+| plastic containers | 4 | Silver fridge | bottom shelf, left side |
 | plastic containers | 4 | Bench D | couter top |
 | plastic funnel | 1 | Bench B | left side of counter top |
 | plastic funnels | 10 | Door/Sink Area | drying rack |
@@ -452,7 +453,7 @@
 | plastic tray | 1 | Bench A | left counter top |
 | plastic trays | 3 | Door/Sink Area | drying rack |
 | plastic tubing | 1 | Bench C | middle drawer on end |
-| power strip | 1 | Silver Freezer | bottom shelf, left side |
+| power strip | 1 | Silver fridge | bottom shelf, left side |
 | promega 10E box | 1 | Bench B | shelf labelled 20 |
 | purple holder | 1 | Bench B | right counter top |
 | purple holder | 1 | Bench B | left side of counter top |
@@ -495,7 +496,7 @@
 | tube with tubes | 1 | Bench B | first shelf on middle |
 | ultrapure distilled water bottle | 1 | Bench A | right counter top |
 | vacuum flask | 1 | Bench B | right counter top |
-| vial | 1 | Silver Freezer | bottom shelf, right side |
+| vial | 1 | Silver Fridge | bottom shelf, right side |
 | vials | 2 | White Freezer | 2nd shelf |
 | water squeezy bottle | 1 | Bench F | counter top |
 | weird glass thing | 1 | Bench B | first shelf on middle |
@@ -508,4 +509,4 @@
 | white rack | 1 | Bench F | under counter |
 | white racks | 2 | Door/Sink Area | drying rack |
 | whiteboard w/ 4 markers, eraser, + spray | 1 | Bench A | wall by bench A |
-| yellow circle/wheel | 1 | Silver Freezer | bottom shelf, left side |
+| yellow circle/wheel | 1 | Silver Fridge | bottom shelf, left side |
