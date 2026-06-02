@@ -6,7 +6,7 @@ lab_type: "Field Processing / Dirty Lab"
 biosafety_level: "Non-molecular"
 maintained_by: "IEE Shared Molecular Laboratory"
 contact: "mcurrey@uoregon.edu"
-last_updated: "2026-05-01"
+last_updated: "2026-06-02"
 description: >
   Inventory of equipment and benchtop station resources in Onyx 368,
   a shared field processing ("dirty") lab managed by the Institute of
@@ -81,3 +81,64 @@ description: >
 
 - Molecular fridge
 - Electronic balances/scales (x2)
+
+---
+
+## Main Shelving Unit
+
+| Shelf | Contents |
+|-------|----------|
+| Bottom shelf | Pipette tips (x2 boxes) |
+| Next shelf up | Pipette tips |
+| Next shelf up | Pipette tips, trays |
+
+---
+
+## Glass Cabinets
+
+### Far Left Upper Cabinet
+
+| Location | Contents |
+|----------|----------|
+| Top shelf | Small plastic containers of various sizes |
+| Middle shelf | Petri dishes, plastic trays, aluminum weigh boats, plastic weigh boats, well plates |
+| Lower | Containers of plastic tubes w/ metal beads, tubes, TCP tubes |
+
+### Right Upper Cabinet
+
+| Location | Contents |
+|----------|----------|
+| Top shelf | Misc equipment, Falcon tubes |
+| Middle shelf | Misc equipment |
+| Bottom shelf | Vacuum flask, misc centrifuge equipment, aspirating pipettes, spatulas, pipette pans |
+
+---
+
+## Bottom Cabinets
+
+### Left Bottom Cabinet
+
+- Glassware
+
+### Cabinets by Sink
+
+- Markers and post-its
+- Totes
+- Computer, keyboard + mouse
+- Office supplies
+
+### Right Bottom Shelf
+
+- Misc. supplies
+- Instruction manuals
+- Tile plates
+- Lamp protector
+
+---
+
+## Fume Hood
+
+- Tube holders
+- Drying rack
+- Pipette holder
+- Pipette
