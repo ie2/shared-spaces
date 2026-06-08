@@ -6,7 +6,7 @@ lab_type: "Molecular Laboratory"
 biosafety_level: "BSL1"
 maintained_by: "IEE Shared Molecular Laboratory"
 contact: "mcurrey@uoregon.edu"
-last_updated: "2026-05-01"
+last_updated: "2026-06-08"
 description: >
   Detailed inventory of equipment and consumables in 327 Pacific Hall,
   the IEE shared BSL1 molecular laboratory managed by the Institute of
@@ -18,6 +18,37 @@ description: >
 ---
 
 > Organized by lab location. Use Specific Location to find items within each area.
+
+## Major Equipment
+
+- Centrifuge 5804 R (Bench A)
+- Eppendorf EasyPet (Bench A)
+- Microwave (Bench B)
+- Microscope (Bench B)
+- Thermo Scientific MySpin 6 (Bench B)
+- Thermo Scientific Legend Micro 21 Centrifuge (Bench B / Silver Freezer)
+- Eppendorf Centrifuge 5425 (Bench B)
+- Eppendorf Centrifuge (Bench C)
+- Thermo Scientific MySpin 6 (Bench C)
+- Eppendorf Vapo.Protect (×2) (Bench D)
+- PlateMax Machine (Bench D)
+- Thermo Scientific Multidrop Combi (Bench D)
+- KingFisher (Bench D)
+- Eppendorf Mastercycler Pro S PCR Thermal Cycler (×2) (Bench D)
+- Fisher Scientific FB300 Electrophoresis Power Supply (×2) (Bench E)
+- Gel Rigs (×4) (Bench E)
+- Thermo Scientific EasyCast (Bench E)
+- Thermo Scientific Digital Dry Bath/Block Heater (×2) (Bench F)
+- pH Meter (Bench F)
+- VWR Laboratory Incubator (Bench F)
+- Fisher Scientific Isotemp Laboratory Refrigerator/Freezer (Bench F)
+- VWR Fridge (Bench F)
+- Thermo Scientific Dionex ICS-2100 Ion Chromatography System (Bench F)
+- Thermo Scientific 1300 Series Class II Type A2 Biological Safety Cabinet
+- Nutating Mixer (Silver Freezer)
+- Thermo Scientific Sorvall Legend Micro 17/21 Benchtop Microcentrifuge (Silver Freezer)
+
+---
 
 ## Bench A
 
@@ -43,7 +74,6 @@ description: >
 | box of disposable pipettes | 1 | counter top |
 | plastic jar "NDS" full of tiny containers | 1 | counter top |
 | purple pipette holders | 3 | counter top |
-| pipette squishy part | 1 | counter top |
 | pipette tip boxes | 2 | counter top |
 | large purple holders | 4 | counter top |
 | scissors | 1 | counter top |
@@ -90,14 +120,13 @@ description: >
 | kim wipe box | 1 | right counter top |
 | ultrapure distilled water bottle | 1 | right counter top |
 | pipettes | 3 | right counter top |
-| bags of plastic things | 5 | right counter top |
+| 1.6 mL Eppendorf tubes | 5 | right counter top |
 | full biohazard bags | 1 | right counter top |
 | orange stand | 1 | right counter top |
 | scissors | 1 | top drawer on right |
 | pen | 1 | top drawer on right |
 | folded paper | 1 | top drawer on right |
 | white plastic boxes that latch | 12 | 3rd drawer on right |
-| plastic runners? Railing? | 2 | 3rd drawer on right |
 | pipette holder | 1 | first shelf in middle |
 | Instruction sheets | 2 | first shelf in middle |
 | box of gloves (m) | 2 | shelf labelled 4 |
@@ -168,7 +197,6 @@ description: >
 | blue rack w/ one vial | 1 | end of counter |
 | metal bar | 1 | end of counter |
 | microwave | 1 | end of counter |
-| plastic bracket of some kind | 1 | on top of microwave |
 | trashcan | 1 | floor under microwave |
 | spray bottle of 70% EtOH | 1 | right counter top |
 | purple holder | 1 | right counter top |
@@ -187,7 +215,6 @@ description: >
 | pipettes | 6 | first shelf on right |
 | spray bottlles | 4 | first shelf on right |
 | pipette tip boxes | 3 | first shelf on right |
-| baggie with well plates? | 1 | first shelf on right |
 | WWR universal pipette tip boxes | 7 | shelf labelled 19 |
 | promega 10E box | 1 | shelf labelled 20 |
 | package of disposable centrifuge tubes | 12 | shelf labelled 20 |
@@ -198,7 +225,6 @@ description: >
 | bunsen burners | 2 | left side of counter top |
 | illustra instruction booklet | 1 | left side of counter top |
 | large size glove box | 1 | left side of counter top |
-| gray plastic things | 2 | left side of counter top |
 | purple holder | 1 | left side of counter top |
 | microscope | 1 | left side of counter top |
 | glass pipettes in package | 2 | left side of counter top |
@@ -216,7 +242,6 @@ description: >
 | bottle of nail top coat | 1 | first shelf on middle |
 | container of toothpicks | 1 | first shelf on middle |
 | plastic packaging | 1 | first shelf on middle |
-| weird glass thing | 1 | first shelf on middle |
 | timers | 2 | first shelf on middle |
 | pipette tip boxes | 40? | shelf labelled 16 |
 | yellow zymo research box | 2 | shelf labelled 17 |
@@ -281,7 +306,7 @@ description: >
 | box of PCR tubes and lids | 1 | shelf labelled 22 |
 | box of pipette tips | 1 | shelf labelled 22 |
 | box of pipette tips | 4 | shelf labelled 23 |
-| tilt table thing | 1 | counter top |
+| nutator | 1 | counter top |
 | thermoscientific myspin 6 | 2 | counter top |
 | vortex genie | 2 | counter top |
 | tape roll dispenser | 1 | counter top |
@@ -301,8 +326,8 @@ description: >
 | red rack | 1 | bottom shelf in middle |
 | kim wipes | 1 | bottom shelf in middle |
 | box of hard shell pcr plates | 1 | shelf labelled 25 |
-| bags of bottle parts | several | shelf labelled 25 |
-| purple trays | several | shelf labelled 25 |
+| squirt bottles | several | shelf labelled 25 |
+| 50 mL tube holders | several | shelf labelled 25 |
 | boxes of pipette tips | 4 | shelf labelled 26 |
 | pipette tip boxes (empty) | several | shelf labelled 28 |
 | stapler | 1 | counter top |
@@ -348,6 +373,7 @@ description: >
 
 | Name | Quantity | Specific Location |
 |------|----------|-------------------|
+| Eppendorf Mastercycler Pro S PCR Thermal Cycler | 2 | end counter top |
 | eppendorf vapo.protect machines | 2 | end counter top |
 | tongs | 1 | top drawer on end |
 | kinematic box | 1 | top drawer on end |
@@ -355,24 +381,22 @@ description: >
 | sets of gloves | 3 | autoclave gloves drawer |
 | glass tubes | 4 | 3rd drawer on end |
 | metal clamps | several | 3rd drawer on end |
-| bins of plastic/rubber things | 3 | 4th drawer on end |
 | flint striker | 1 | top drawer on bay 9 |
 | safety goggles | 1 | top drawer on bay 9 |
 | pen | 1 | top drawer on bay 9 |
-| gray metal things | 2 | second drawer on bay 9 |
 | screws | 4 | second drawer on bay 9 |
 | plastic tray | 1 | second drawer on bay 9 |
 | empty eppendorf boxes | 2 | bottom drawer bay 9 |
 | metal bar | 1 | bottom drawer bay 9 |
 | plastic containers | 4 | couter top |
-| thermoscientific machine | 1 | couter top |
+| Thermo Scientific Multidrop Combi | 1 | couter top |
 | computer | 1 | couter top |
 | monitor | 1 | couter top |
 | keyboard | 1 | couter top |
 | platemax machine | 1 | couter top |
 | package of white trays | 1 | couter top |
 | white box | 1 | couter top |
-| spinning machine | 1 | couter top |
+| KingFisher | 1 | couter top |
 | packet of paper | 1 | couter top |
 | combitips plus boxes | 5 | shelf on right side |
 | universal pipette tip boxes | 5 | shelf on right side |
@@ -431,12 +455,12 @@ description: >
 | white tray/scale | 1 | counter top |
 | gray plastic tray | 1 | counter top |
 | plastic jar | 1 | counter top |
-| orange plastc box w wires | 1 | counter top |
+| gel rigs | 1 | counter top |
 | nail polish looking bottles | 2 | counter top |
 | glass bottle | 1 | counter top |
-| gray machiens | 2 | counter top |
+| Fisher Scientific FB300 Electrophoresis Power Supply | 2 | counter top |
 | thermo scientific easycast | 1 | shelf |
-| orange plastc box w wires | 3 | shelf |
+| gel rigs | 3 | shelf |
 | lumiprobe baggie | 1 | top drawer bay 16 |
 | pipette tip boxes | 8 | bottom drawer bay 16 |
 | plastic jar | 3 | bottom drawer bay 16 |
@@ -464,7 +488,7 @@ description: >
 | Name | Quantity | Specific Location |
 |------|----------|-------------------|
 | legend micro 21 centrifuge | 1 | bottom shelf, left side |
-| yellow circle/wheel | 1 | bottom shelf, left side |
+| Thermo Scientific Sorvall Legend Micro 17/21 Benchtop Microcentrifuge | 1 | bottom shelf, left side |
 | nutating mixer | 1 | bottom shelf, left side |
 | plastic containers | 4 | bottom shelf, left side |
 | power strip | 1 | bottom shelf, left side |
@@ -483,9 +507,10 @@ description: >
 
 | Name | Quantity | Specific Location |
 |------|----------|-------------------|
+| Thermo Scientific Dionex ICS-2100 Ion Chromatography System | 1 | counter top |
+| Thermo Scientific Digital Dry Bath/Block Heater | 2 | counter top |
 | spray bottle | 1 | counter top |
 | isopropyl squeezy bottle | 1 | counter top |
-| thermoscientific heating machines | 2 | counter top |
 | instruction book | 1 | counter top |
 | gray holder | 1 | counter top |
 | vortex genie | 1 | counter top |
@@ -502,10 +527,20 @@ description: >
 | pH meter | 1 | counter top |
 | green holder | 1 | counter top |
 | instruction sheets | 2 | counter top |
+| VWR Laboratory Incubator | 1 | under counter |
+| Fisher Scientific Isotemp Laboratory Refrigerator/Freezer | 1 | under counter |
 | vwr fridge | 1 | under counter |
 | 5 gallon bucket | 1 | under counter |
 | white rack | 1 | under counter |
 | plastic jars | several | cabinets |
+
+---
+
+## Biological Safety Cabinet
+
+| Name | Quantity | Specific Location |
+|------|----------|-------------------|
+| Thermo Scientific 1300 Series Class II Type A2 Biological Safety Cabinet | 1 | |
 
 ---
 

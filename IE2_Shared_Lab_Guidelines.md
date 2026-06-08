@@ -1,6 +1,6 @@
 # Institute of Ecology and Evolution — Shared Laboratory Spaces
 
-**User Guidelines | Version 1.1 | March 2026**
+**User Guidelines | Version 1.2 | June 2026**
 
 ---
 
@@ -28,14 +28,15 @@ To request access, send a brief email to the Research Coordinator and the IE² D
 - Roughly how often or for how long you'll need access
 - Any anticipated storage needs
 
-Currently two Shared Laboratory spaces are maintained by IE²:
+Currently three Shared Laboratory spaces are maintained by IE²:
 
 | Space | Description |
 |-------|-------------|
 | **Onyx 368** | A "dirty" lab suitable for sample sorting, sample prep, and light molecular work (e.g., DNA extraction) |
 | **Pacific 327** | A fully equipped molecular biology lab |
+| **Pacific 333** | A shared lab space for Drosophila research and microscopy |
 
-Both spaces are only suitable for **BSL1** work (see Section 5).
+All spaces are only suitable for **BSL1** work (see Section 5).
 
 Access is not active until the request has been reviewed and the required orientation has been completed. If you wish to use equipment with which you are unfamiliar, the IE² Research Coordinator will provide training (see Section 4). Orientation covers general access and safety procedures; additional equipment-specific training may be required before independent use of particular instruments. IE² may limit, suspend, or revoke access when necessary because of safety concerns, misuse, space constraints, or repeated failure to follow these guidelines.
 
