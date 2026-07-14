@@ -6,7 +6,7 @@ lab_type: "Molecular Laboratory"
 biosafety_level: "BSL1"
 maintained_by: "IEE Shared Molecular Laboratory"
 contact: "mcurrey@uoregon.edu"
-last_updated: "2026-06-08"
+last_updated: "2026-07-14"
 description: >
   Detailed inventory of equipment and consumables in 327 Pacific Hall,
   the IEE shared BSL1 molecular laboratory managed by the Institute of
@@ -43,7 +43,6 @@ description: >
 - VWR Laboratory Incubator (Bench F)
 - Fisher Scientific Isotemp Laboratory Refrigerator/Freezer (Bench F)
 - VWR Fridge (Bench F)
-- Thermo Scientific Dionex ICS-2100 Ion Chromatography System (Bench F)
 - Thermo Scientific 1300 Series Class II Type A2 Biological Safety Cabinet
 - Nutating Mixer (Silver Freezer)
 - Thermo Scientific Sorvall Legend Micro 17/21 Benchtop Microcentrifuge (Silver Freezer)
@@ -507,7 +506,6 @@ description: >
 
 | Name | Quantity | Specific Location |
 |------|----------|-------------------|
-| Thermo Scientific Dionex ICS-2100 Ion Chromatography System | 1 | counter top |
 | Thermo Scientific Digital Dry Bath/Block Heater | 2 | counter top |
 | spray bottle | 1 | counter top |
 | isopropyl squeezy bottle | 1 | counter top |

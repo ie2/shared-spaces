@@ -6,7 +6,7 @@ lab_type: "Field Processing / Dirty Lab"
 biosafety_level: "Non-molecular"
 maintained_by: "IEE Shared Molecular Laboratory"
 contact: "mcurrey@uoregon.edu"
-last_updated: "2026-06-02"
+last_updated: "2026-07-14"
 description: >
   Inventory of equipment and benchtop station resources in Onyx 368,
   a shared field processing ("dirty") lab managed by the Institute of
@@ -31,6 +31,7 @@ description: >
 | Electronic Balances/Scales | x2, counter by shelves |
 | Micromix Centrifuge | Station 4, front wall |
 | Vortex Genie 2 | |
+| Thermo Scientific Dionex ICS-2100 Ion Chromatography System | |
 
 ---
 
