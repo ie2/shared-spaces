@@ -1,6 +1,6 @@
 # Institute of Ecology and Evolution — Shared Laboratory Spaces
 
-**User Guidelines | Version 1.2 | June 2026**
+**User Guidelines | Version 1.3 | July 2026**
 
 ---
 
@@ -28,10 +28,11 @@ To request access, send a brief email to the Research Coordinator and the IE² D
 - Roughly how often or for how long you'll need access
 - Any anticipated storage needs
 
-Currently three Shared Laboratory spaces are maintained by IE²:
+Currently four Shared Laboratory spaces are maintained by IE²:
 
 | Space | Description |
 |-------|-------------|
+| **Pacific 314** | A shared equipment room (nanopure water system, gel imaging system, NanoDrop) |
 | **Onyx 368** | A "dirty" lab suitable for sample sorting, sample prep, and light molecular work (e.g., DNA extraction) |
 | **Pacific 327** | A fully equipped molecular biology lab |
 | **Pacific 333** | A shared lab space for Drosophila research and microscopy |
@@ -63,6 +64,10 @@ Please leave the lab in the same condition in which you would want to find it. A
 ### Training and Responsibility
 
 Use of shared equipment is limited to users who have completed any required orientation or training designated by the IE² Research Coordinator or other authorized personnel. Training may include direct instruction and, where appropriate, sign-off before independent use. Routine upkeep and service of shared equipment will be coordinated through IE², with cost allocation determined by IE² leadership and relevant faculty as appropriate to the equipment and its use. If equipment is damaged through misuse, unauthorized use, or failure to follow posted procedures or training instructions, IE² leadership may assign responsibility for repair or replacement costs to the responsible lab or user. Routine maintenance costs will be covered by IE².
+
+### Autoclaves
+
+IE² maintains shared autoclaves in Pacific Hall 317 and Pacific Hall 17A. Use is limited to trained users. See the [IEE Autoclave Guidelines](iee_autoclave_guidelines.md) for safety requirements, approved uses, sign-in procedures, and troubleshooting.
 
 ### General Equipment Rules
 
